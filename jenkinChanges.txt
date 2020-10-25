@@ -1,0 +1,1 @@
+Jenkins took configured with auto build
